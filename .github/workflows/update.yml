@@ -1,0 +1,29 @@
+name: Update Mainichi RSS
+on:
+  schedule:
+    - cron: '0 */3 * * *' # S'exécute toutes les 3 heures
+  workflow_dispatch: # Permet de le lancer à la main pour tester
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Autorise GitHub à enregistrer le fichier rss.xml
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+      - name: Run script
+          run: python main.py
+      - name: Commit and Push
+        run: |
+          git config --global user.name "RSS-Bot"
+          git config --global user.email "bot@github.com"
+          git add rss.xml
+          git commit -m "Mise à jour du flux RSS" || exit 0
+          git push
