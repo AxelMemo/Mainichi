@@ -1,138 +1,146 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Mainichi - Incident et Shakai (Complet)</title><link>https://mainichi.jp</link><description>Tous les articles de Incident et Shakai, sans doublons.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 23 May 2026 02:46:54 +0000</lastBuildDate><item><title>国内線は実質赤字状態　国交省、航空券の販売価格モニタリングへ
-
-2026/5/22 20:53 526文字
-
-　国土交通省は22日、国内航空チケットの販売価格のモニタリングを6月中に始めることを決めた。国内線はビジネス客減少のほか、航空燃料の高騰などで政府の支援がなければ実質、赤字状態にある。大手航空から中堅航空への出資規制の廃止なども含め、国内航空網を維持するための事業環境を整備する。　同省で22日開かれ</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/020/331000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/020/331000c</guid><pubDate>Sat, 23 May 2026 02:46:54 +0000</pubDate></item><item><title>社長らの「監督過失」認める　軽井沢のバス事故、2審も実刑判決
-
-2026/5/22 21:37 816文字
-
-　長野県軽井沢町で2016年、大学生ら15人が死亡したスキーツアーバス事故で、業務上過失致死傷罪に問われたバス運行会社「イーエスピー」（東京）社長、高橋美作（みさく）被告（64）と元社員の荒井強被告（57）の控訴審で、東京高裁は22日、事故の予見可能性を認め、1審・長野地裁判決（23年6月）に続き両</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/342000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/342000c</guid><pubDate>Sat, 23 May 2026 02:46:54 +0000</pubDate></item><item><title>遺族ら「社会に警鐘を」　軽井沢15人死亡バス事故高裁判決受け
-
-2026/5/22 21:53 1094文字
-
-　長野県軽井沢町で2016年、大学生ら15人が死亡したスキーツアーバス事故で、業務上過失致死傷罪に問われたバス運行会社「イーエスピー」（東京）社長、高橋美作（みさく）被告（64）と運行管理者だった荒井強被告（57）の控訴審判決で、東京高裁は22日、いずれも実刑とした1審・長野地裁判決（23年6月）を</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/352000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/352000c</guid><pubDate>Sat, 23 May 2026 02:46:54 +0000</pubDate></item><item><title>AI悪用でインフラ混乱も…病院や企業、今からやるべき対策は?
-
-2026/5/23 05:30深掘り 1942文字
-
-　最新の人工知能（AI）を悪用したサイバー攻撃に備えるため、金融システムを停止してでも対策を講じるよう金融庁と日銀が一歩踏み込む要請を金融機関に出した。最新AIは犯罪集団の手に渡ると脅威につながり、電力会社や医療機関など重要インフラにも影響を与えかねず、官民を挙げた対応が急務となっている。　米新興企</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/020/374000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/020/374000c</guid><pubDate>Sat, 23 May 2026 02:46:54 +0000</pubDate></item><item><title>銀行に存続危機　高性能AI「ミュトス」対応、費用も人手も足りず
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Mainichi - Incident et Shakai (Complet)</title><link>https://mainichi.jp</link><description>Tous les articles de Incident et Shakai, sans doublons.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 23 May 2026 06:11:19 +0000</lastBuildDate><item><title>銀行に存続危機　高性能AI「ミュトス」対応、費用も人手も足りず
 
 2026/5/23 05:30深掘り 1095文字
 
-　米新興企業アンソロピックの高性能AI「クロード・ミュトス」の登場により、金融機関は「攻めのAI活用」から「守りへの投資」に転じることになる。ミュトスが見つけたシステム上の弱点に対する修正プログラムは米国側から大量に配布される見通しで、対応するには膨大な費用が必要になる。経営体力のない地銀は再編に追</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/020/339000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/020/339000c</guid><pubDate>Sat, 23 May 2026 02:46:54 +0000</pubDate></item><item><title>駆除難しい「ミステリークレイフィッシュ」、松山にも定着?
+　米新興企業アンソロピックの高性能AI「クロード・ミュトス」の登場により、金融機関は「攻めのAI活用」から「守りへの投資」に転じることになる。ミュトスが見つけたシステム上の弱点に対する修正プログラムは米国側から大量に配布される見通しで、対応するには膨大な費用が必要になる。経営体力のない地銀は再編に追</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/020/339000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/020/339000c</guid><pubDate>Sat, 23 May 2026 06:11:19 +0000</pubDate></item><item><title>駆除難しい「ミステリークレイフィッシュ」、松山にも定着?
 
 2026/5/23 06:15 1116文字
 
-　特定外来生物のザリガニ「ミステリークレイフィッシュ」が、松山市の1級河川・重信川の河川敷に定着した可能性が極めて高いことが分かった。愛媛県生物多様性センター（同県東温市）の今季の調査が21日に始まり、昨季に続いて生きた個体が見つかった。国内ではすでに沖縄県内で定着が確認されているが、雌だけで繁殖で</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/203000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/203000c</guid><pubDate>Sat, 23 May 2026 02:46:54 +0000</pubDate></item><item><title>北海道メガソーラー事業地で「キタサンショウウオ」の卵のう発見
+　特定外来生物のザリガニ「ミステリークレイフィッシュ」が、松山市の1級河川・重信川の河川敷に定着した可能性が極めて高いことが分かった。愛媛県生物多様性センター（同県東温市）の今季の調査が21日に始まり、昨季に続いて生きた個体が見つかった。国内ではすでに沖縄県内で定着が確認されているが、雌だけで繁殖で</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/203000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/203000c</guid><pubDate>Sat, 23 May 2026 06:11:19 +0000</pubDate></item><item><title>北海道メガソーラー事業地で「キタサンショウウオ」の卵のう発見
 
 2026/5/23 08:15 755文字
 
-　北海道の釧路湿原国立公園に近い市街化調整区域で大阪の太陽光発電事業者が計画しているメガソーラー事業地と民有地の境界付近で、環境省のレッドリストで絶滅の危険度が高まっている釧路市の天然記念物・キタサンショウウオの卵のうが見つかった。　事業者は2025年12月、伐採という形で工事に「着手」しており、2</title><link>https://mainichi.jp//mainichi.jp/articles/20260521/k00/00m/040/374000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260521/k00/00m/040/374000c</guid><pubDate>Sat, 23 May 2026 02:46:54 +0000</pubDate></item><item><title>「まだいたんだ…」　キタサンショウウオの卵のう発見、光った涙
+　北海道の釧路湿原国立公園に近い市街化調整区域で大阪の太陽光発電事業者が計画しているメガソーラー事業地と民有地の境界付近で、環境省のレッドリストで絶滅の危険度が高まっている釧路市の天然記念物・キタサンショウウオの卵のうが見つかった。　事業者は2025年12月、伐採という形で工事に「着手」しており、2</title><link>https://mainichi.jp//mainichi.jp/articles/20260521/k00/00m/040/374000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260521/k00/00m/040/374000c</guid><pubDate>Sat, 23 May 2026 06:11:19 +0000</pubDate></item><item><title>「まだいたんだ…」　キタサンショウウオの卵のう発見、光った涙
 
 2026/5/23 08:16 1200文字
 
-　北海道の釧路湿原国立公園に近い市街化調整区域で大阪の太陽光発電事業者が計画しているメガソーラー事業地と民有地の境界付近で、環境省のレッドリストで絶滅の危険度が高まっている釧路市の天然記念物・キタサンショウウオの卵のうが見つかった。　◇「湿原のサファイア」に目をうるませ…　「まだいたんだ……」　キタ</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/113000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/113000c</guid><pubDate>Sat, 23 May 2026 02:46:54 +0000</pubDate></item><item><title>「ミカドアナナス」、11年ぶりに開花　5月末までか　名古屋
+　北海道の釧路湿原国立公園に近い市街化調整区域で大阪の太陽光発電事業者が計画しているメガソーラー事業地と民有地の境界付近で、環境省のレッドリストで絶滅の危険度が高まっている釧路市の天然記念物・キタサンショウウオの卵のうが見つかった。　◇「湿原のサファイア」に目をうるませ…　「まだいたんだ……」　キタ</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/113000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/113000c</guid><pubDate>Sat, 23 May 2026 06:11:19 +0000</pubDate></item><item><title>「ミカドアナナス」、11年ぶりに開花　5月末までか　名古屋
 
 2026/5/23 08:45 264文字
 
-　東山動植物園（名古屋市千種区）は22日、ブラジル原産のパイナップル科の植物「ミカドアナナス」が11年ぶりに開花したと発表した。　次に咲くまでに10年以上を要するため、花を見ることができるのはまれだ。咲いているのは5月末ごろまでの見込み。　18日夜に職員が発見した。白いリボンを垂らしたような花びらを</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/277000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/277000c</guid><pubDate>Sat, 23 May 2026 02:46:54 +0000</pubDate></item><item><title>「亡くなる数日前まで筆を」　清原大龍さん遺作、福岡・豊前に寄贈
+　東山動植物園（名古屋市千種区）は22日、ブラジル原産のパイナップル科の植物「ミカドアナナス」が11年ぶりに開花したと発表した。　次に咲くまでに10年以上を要するため、花を見ることができるのはまれだ。咲いているのは5月末ごろまでの見込み。　18日夜に職員が発見した。白いリボンを垂らしたような花びらを</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/277000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/277000c</guid><pubDate>Sat, 23 May 2026 06:11:19 +0000</pubDate></item><item><title>「亡くなる数日前まで筆を」　清原大龍さん遺作、福岡・豊前に寄贈
 
 2026/5/23 09:45 537文字
 
-　福岡県豊前市の県立青豊高校書道部を名門に育てた元顧問で、2025年2月に77歳で亡くなった書道家の清原大龍さん（毎日書道展審査会員）の遺作が21日、妻の慧子さん（78）から同市に寄贈された。　清原さんは1983年、母校の県立築上中部高（現・青豊高）に赴任。93年の第1回国際高校生選抜書展（書の甲子</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/178000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/178000c</guid><pubDate>Sat, 23 May 2026 02:46:54 +0000</pubDate></item><item><title>沖縄発の乾燥梅「スッパイマン」　人気者の鶴の一声で全国区に
+　福岡県豊前市の県立青豊高校書道部を名門に育てた元顧問で、2025年2月に77歳で亡くなった書道家の清原大龍さん（毎日書道展審査会員）の遺作が21日、妻の慧子さん（78）から同市に寄贈された。　清原さんは1983年、母校の県立築上中部高（現・青豊高）に赴任。93年の第1回国際高校生選抜書展（書の甲子</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/178000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/178000c</guid><pubDate>Sat, 23 May 2026 06:11:19 +0000</pubDate></item><item><title>沖縄発の乾燥梅「スッパイマン」　人気者の鶴の一声で全国区に
 
 2026/5/23 10:00 2490文字
 
-　黄色と赤のパッケージの「スッパイマン　甘梅一番」は、上間菓子店（沖縄県豊見城＜とみぐすく＞市）が製造・販売している乾燥梅。甘酸っぱい味と梅の絵が描かれたパッケージが人気で、今年で発売45周年を迎える。　スーパーやコンビニでもよく見かけるけれど、地理的に不利な沖縄のお菓子が、あちこちで売られているな</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/100000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/100000c</guid><pubDate>Sat, 23 May 2026 02:46:54 +0000</pubDate></item><item><title>障害ある人対象に「週10時間未満」求人掲載　神奈川県が後押し
+　黄色と赤のパッケージの「スッパイマン　甘梅一番」は、上間菓子店（沖縄県豊見城＜とみぐすく＞市）が製造・販売している乾燥梅。甘酸っぱい味と梅の絵が描かれたパッケージが人気で、今年で発売45周年を迎える。　スーパーやコンビニでもよく見かけるけれど、地理的に不利な沖縄のお菓子が、あちこちで売られているな</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/100000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/100000c</guid><pubDate>Sat, 23 May 2026 06:11:19 +0000</pubDate></item><item><title>障害ある人対象に「週10時間未満」求人掲載　神奈川県が後押し
 
 2026/5/23 11:15 607文字
 
-　フルタイムで働くのが難しい障害者の短時間雇用を促進するため、神奈川県は週10時間未満の求人を紹介するページをインターネット上に開設した。「かながわちょこっと雇用プラットフォーム」と名付け、掲載第1号の求人として県の職員募集も行っている。　民間企業「ミライロ」と連携。同社は障害者手帳をスマートフォン</title><link>https://mainichi.jp//mainichi.jp/articles/20260521/k00/00m/040/370000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260521/k00/00m/040/370000c</guid><pubDate>Sat, 23 May 2026 02:46:54 +0000</pubDate></item><item><title>奥深き焙煎　コーヒー好きの行き着く先　「豆がかわいく見える」
+　フルタイムで働くのが難しい障害者の短時間雇用を促進するため、神奈川県は週10時間未満の求人を紹介するページをインターネット上に開設した。「かながわちょこっと雇用プラットフォーム」と名付け、掲載第1号の求人として県の職員募集も行っている。　民間企業「ミライロ」と連携。同社は障害者手帳をスマートフォン</title><link>https://mainichi.jp//mainichi.jp/articles/20260521/k00/00m/040/370000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260521/k00/00m/040/370000c</guid><pubDate>Sat, 23 May 2026 06:11:19 +0000</pubDate></item><item><title>ウイスキー業界で高評価のミズナラ製のたる守れ　生産者らが植樹
+
+2026/5/23 12:15 683文字
+
+　森を守りながらミズナラ製のたるを後世に残そうと、ウイスキーの生産者らが22日、甲府市内の森林で苗木の植樹を行った。日本のミズナラ製のたるは世界のウイスキー業界から高い評価を得ており、参加者は「この苗木でたるができるのは100年以上かかるが活動を継続し、孫やその次の世代に残していきたい」と話した。</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/302000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/302000c</guid><pubDate>Sat, 23 May 2026 06:11:19 +0000</pubDate></item><item><title>「メガソーラー許可制に」千葉県が条例骨子案　検討会議初会合
+
+2026/5/23 13:45 803文字
+
+　千葉県鴨川市のメガソーラー（大規模太陽光発電所）事業で開発の許可条件に反する森林伐採が発覚した問題を受け、千葉県は22日、規制条例の制定を目指して検討会議の初会合を開いた。県は、大規模施設は許可制とし、設置後も事業者に維持管理と廃止までの継続した責任を求める内容の条例骨子案を提示した。　太陽光パネ</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/376000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/376000c</guid><pubDate>Sat, 23 May 2026 06:11:19 +0000</pubDate></item><item><title>AI活用→情報格差解消へ　新人議員をサポートする村議の信念
+
+2026/5/23 14:00 1757文字
+
+　生成人工知能（AI）を使って当選1年目の町村議会議員の活動を支援するサービスを、福島県飯舘村議で行政書士の横山秀人さん（56）が始めた。　議事録や住民の声をデータベース化し、根拠のある質問づくりを伴走支援する。町村議の大半が兼業という現実の中、新人議員の「土台づくり」を目指す取り組みだ。　◇初当選</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/160000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/160000c</guid><pubDate>Sat, 23 May 2026 06:11:19 +0000</pubDate></item><item><title>警官の通訳技能向上へ　正確さ、発音…トーナメントで競う　福岡
+
+2026/5/23 14:01 407文字
+
+　外国人の通訳に対応する警察官の通訳技能の向上を図るため、福岡県警と九州管区警察局は、県警本部で通訳人競技会を開いた。九州の各県警からそれぞれ選抜された計8人の通訳人が1対1のトーナメント方式で対戦し、通訳技術を競った。　競技会では、警察官が英語を話す米国人の相談にのったり、取り調べたりするなどの状</title><link>https://mainichi.jp//mainichi.jp/articles/20260523/k00/00m/040/074000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260523/k00/00m/040/074000c</guid><pubDate>Sat, 23 May 2026 06:11:19 +0000</pubDate></item><item><title>涼しげな「水うちわ」　夏本番を前に岐阜で製作最盛期
+
+2026/5/23 14:30 466文字
+
+　夏本番を前に、岐阜県美濃市の古川紙工で目にも涼しげな「水うちわ」の製作が最盛期を迎えている。　ぬれたような光沢と透明感が特徴の水うちわは、竹の骨格に薄い和紙「雁皮紙（がんぴし）」をはり付け、天然由来のニスを塗り重ねて作られる。工房では、切り込みが入れられた約2・5メートルの竹の棒にうちわを固定し、</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/384000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/384000c</guid><pubDate>Sat, 23 May 2026 06:11:19 +0000</pubDate></item><item><title>奥深き焙煎　コーヒー好きの行き着く先　「豆がかわいく見える」
 
 5/23 08:00深掘り 1997文字
 
-　豆にこだわったり、好きなカップで飲んだり、コーヒーにはさまざまな楽しみ方がある。　そんなコーヒー好きが最後にたどりつくのが、生豆を加熱する「焙煎（ばいせん）」を自宅ですることだという。　キーコーヒーの林稔・自家焙煎支援事業スーパーバイザーに、初心者でも始められる焙煎のやり方を教えてもらった。　◇焙</title><link>https://mainichi.jp//mainichi.jp/articles/20260518/k00/00m/040/055000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260518/k00/00m/040/055000c</guid><pubDate>Sat, 23 May 2026 02:46:54 +0000</pubDate></item><item><title>街のカレー屋が消える？　在留資格の要件に資本金3000万円
+　豆にこだわったり、好きなカップで飲んだり、コーヒーにはさまざまな楽しみ方がある。　そんなコーヒー好きが最後にたどりつくのが、生豆を加熱する「焙煎（ばいせん）」を自宅ですることだという。　キーコーヒーの林稔・自家焙煎支援事業スーパーバイザーに、初心者でも始められる焙煎のやり方を教えてもらった。　◇焙</title><link>https://mainichi.jp//mainichi.jp/articles/20260518/k00/00m/040/055000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260518/k00/00m/040/055000c</guid><pubDate>Sat, 23 May 2026 06:11:19 +0000</pubDate></item><item><title>街のカレー屋が消える？　在留資格の要件に資本金3000万円
 
 5/23 11:00深掘り 2528文字
 
-　街のカレー屋が消えるかもしれない――。　そんな危機感を抱き、SNS上で外国人経営者向けの在留資格「経営・管理」の要件の厳格化に抗議する投稿が広がっている。　特に疑問視されているのは、在留資格の不正利用を防ぐため、昨年10月に必要とされる資本金が500万円以上から3000万円以上に引き上げられたこと</title><link>https://mainichi.jp//mainichi.jp/articles/20260521/k00/00m/040/181000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260521/k00/00m/040/181000c</guid><pubDate>Sat, 23 May 2026 02:46:54 +0000</pubDate></item><item><title>男性の耳切断容疑で　山口組系組事務所を家宅捜索　福岡県警
+　街のカレー屋が消えるかもしれない――。　そんな危機感を抱き、SNS上で外国人経営者向けの在留資格「経営・管理」の要件の厳格化に抗議する投稿が広がっている。　特に疑問視されているのは、在留資格の不正利用を防ぐため、昨年10月に必要とされる資本金が500万円以上から3000万円以上に引き上げられたこと</title><link>https://mainichi.jp//mainichi.jp/articles/20260521/k00/00m/040/181000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260521/k00/00m/040/181000c</guid><pubDate>Sat, 23 May 2026 06:11:19 +0000</pubDate></item><item><title>息子が立てこもり、その時母は…桜木紫乃さんが師にささぐ物語
 
-2026/5/22 16:56 362文字
+5/23 12:00インタビュー 2340文字
 
-　耳をカッターナイフで切り落としたなどとして、特定抗争指定暴力団山口組系組幹部ら3人が傷害容疑などで逮捕された事件で、福岡県警は22日、朝倉市の山口組系組事務所を家宅捜索した。　22日午後1時半ごろ、県警暴力団犯罪捜査課の捜査員ら13人が組事務所に家宅捜索に入った。目立った混乱はなく、30分ほどで捜</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/197000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/197000c</guid><pubDate>Sat, 23 May 2026 02:46:50 +0000</pubDate></item><item><title>8人死亡の屋久島沖オスプレイ事故　米機長を容疑者死亡で不起訴
-
-2026/5/22 17:22 215文字
-
-　鹿児島県・屋久島沖で2023年11月、米空軍輸送機CV22オスプレイが墜落し、8人が死亡した事故で、鹿児島地検は22日、航空危険行為処罰法違反と業務上過失致死の疑いで書類送検された機長について、容疑者死亡で不起訴処分とした。　第10管区海上保安本部（鹿児島）が15日、機長を書類送検。飛行中に故障警</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/222000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/222000c</guid><pubDate>Sat, 23 May 2026 02:46:50 +0000</pubDate></item><item><title>辺野古転覆事故、死亡の船長を刑事告発　海上運送法違反の疑い
+　猟銃を持った男が人質を取って銀行に立てこもった。　警察は男を説得するため、母親をヘリコプターで迎えに行く。だが母親は2時間警察を待たせた。その間に行っていたのは、美容室だった――。　桜木紫乃さんの最新作「異常に非（あら）ず」（新潮社）は、約50年前の立てこもり事件をモチーフにした小説だ。　母親はな</title><link>https://mainichi.jp//mainichi.jp/articles/20260521/k00/00m/200/111000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260521/k00/00m/200/111000c</guid><pubDate>Sat, 23 May 2026 06:11:19 +0000</pubDate></item><item><title>辺野古転覆事故、死亡の船長を刑事告発　海上運送法違反の疑い
 
 2026/5/22 17:42 860文字
 
-　沖縄県名護市辺野古沖で3月に小型船2隻が転覆し、同志社国際高校（京都府）の女子生徒ら2人が死亡した事故で、内閣府沖縄総合事務局は22日、死亡した金井創（はじめ）船長（71）について、海上運送法違反の疑いで中城海上保安部に刑事告発した。有償か無償かを問わず、求めに応じて人を運送する事業は国への登録が</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/227000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/227000c</guid><pubDate>Sat, 23 May 2026 02:46:50 +0000</pubDate></item><item><title>磐越道バス事故、容疑者の鑑定留置開始　責任能力の有無調査へ
+　沖縄県名護市辺野古沖で3月に小型船2隻が転覆し、同志社国際高校（京都府）の女子生徒ら2人が死亡した事故で、内閣府沖縄総合事務局は22日、死亡した金井創（はじめ）船長（71）について、海上運送法違反の疑いで中城海上保安部に刑事告発した。有償か無償かを問わず、求めに応じて人を運送する事業は国への登録が</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/227000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/227000c</guid><pubDate>Sat, 23 May 2026 06:11:18 +0000</pubDate></item><item><title>磐越道バス事故、容疑者の鑑定留置開始　責任能力の有無調査へ
 
 2026/5/22 18:21 238文字
 
-　福島県郡山市の磐越自動車道で新潟市の北越高の男子生徒1人が死亡したマイクロバス事故で、福島地検郡山支部は22日、自動車運転処罰法違反（過失致死傷）の疑いで逮捕された無職若山哲夫容疑者（68）＝新潟県胎内市＝の鑑定留置を始めた。期間は約3カ月半。刑事責任能力の有無を調べる。　逮捕容疑は6日午前7時4</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/256000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/256000c</guid><pubDate>Sat, 23 May 2026 02:46:50 +0000</pubDate></item><item><title>アメ横で声掛け10代女性に性的暴行か　消防士2人を逮捕
+　福島県郡山市の磐越自動車道で新潟市の北越高の男子生徒1人が死亡したマイクロバス事故で、福島地検郡山支部は22日、自動車運転処罰法違反（過失致死傷）の疑いで逮捕された無職若山哲夫容疑者（68）＝新潟県胎内市＝の鑑定留置を始めた。期間は約3カ月半。刑事責任能力の有無を調べる。　逮捕容疑は6日午前7時4</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/256000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/256000c</guid><pubDate>Sat, 23 May 2026 06:11:18 +0000</pubDate></item><item><title>アメ横で声掛け10代女性に性的暴行か　消防士2人を逮捕
 
 2026/5/22 18:23 350文字
 
-　上野・アメ横商店街（東京都台東区）で声を掛けた10代女性に性的暴行をしたとして、警視庁本富士署は21日、東京消防庁の男性職員2人を不同意性交等容疑で逮捕した。被害に遭った女性がその日のうちに警察に相談して発覚したという。　逮捕されたのは、城東消防署の消防士長、天野虎太郎（28）＝江戸川区＝と赤羽署</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/245000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/245000c</guid><pubDate>Sat, 23 May 2026 02:46:50 +0000</pubDate></item><item><title>大分の死体遺棄事件、殺人罪などで58歳男性を起訴　大分地検
+　上野・アメ横商店街（東京都台東区）で声を掛けた10代女性に性的暴行をしたとして、警視庁本富士署は21日、東京消防庁の男性職員2人を不同意性交等容疑で逮捕した。被害に遭った女性がその日のうちに警察に相談して発覚したという。　逮捕されたのは、城東消防署の消防士長、天野虎太郎（28）＝江戸川区＝と赤羽署</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/245000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/245000c</guid><pubDate>Sat, 23 May 2026 06:11:18 +0000</pubDate></item><item><title>大分の死体遺棄事件、殺人罪などで58歳男性を起訴　大分地検
 
 2026/5/22 18:31 390文字
 
-　大分県豊後大野市の山中で女性の遺体が見つかった事件で、大分地検は22日、女性を殺害し遺体を遺棄したとして、大分市の無職、姫野忠文容疑者（58）を殺人と死体遺棄の罪で起訴した。　起訴状などによると、姫野被告は3月3日、大分市元町の自宅で、県内の契約職員の女性（当時18歳）の首をサバイバルナイフで刺し</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/259000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/259000c</guid><pubDate>Sat, 23 May 2026 02:46:50 +0000</pubDate></item><item><title>鈴木知事「工事への影響は最小に」　北海道新幹線談合疑い巡り
+　大分県豊後大野市の山中で女性の遺体が見つかった事件で、大分地検は22日、女性を殺害し遺体を遺棄したとして、大分市の無職、姫野忠文容疑者（58）を殺人と死体遺棄の罪で起訴した。　起訴状などによると、姫野被告は3月3日、大分市元町の自宅で、県内の契約職員の女性（当時18歳）の首をサバイバルナイフで刺し</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/259000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/259000c</guid><pubDate>Sat, 23 May 2026 06:11:18 +0000</pubDate></item><item><title>鈴木知事「工事への影響は最小に」　北海道新幹線談合疑い巡り
 
 2026/5/22 18:41 429文字
 
-　北海道新幹線の札幌延伸工事で談合の疑いが発覚したことについて、鈴木直道知事は22日の定例記者会見で「事実であれば大変残念。まずは全容を解明し、工事への影響が最小となるよう取り組んでほしい」と国などに求めた。　知事は「一日も早い開業と地方負担の軽減について、これまで沿線自治体や経済界と一体となり、政</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/270000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/270000c</guid><pubDate>Sat, 23 May 2026 02:46:50 +0000</pubDate></item><item><title>大阪の母娘刺殺、母への殺人容疑で再逮捕　娘の元交際相手
+　北海道新幹線の札幌延伸工事で談合の疑いが発覚したことについて、鈴木直道知事は22日の定例記者会見で「事実であれば大変残念。まずは全容を解明し、工事への影響が最小となるよう取り組んでほしい」と国などに求めた。　知事は「一日も早い開業と地方負担の軽減について、これまで沿線自治体や経済界と一体となり、政</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/270000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/270000c</guid><pubDate>Sat, 23 May 2026 06:11:18 +0000</pubDate></item><item><title>大阪の母娘刺殺、母への殺人容疑で再逮捕　娘の元交際相手
 
 2026/5/22 18:58 460文字
 
-　大阪府和泉市の団地で住人の母娘が殺害された事件で、娘に対する殺人容疑で逮捕された、無職の杉平輝幸容疑者（51）＝堺市堺区＝について、府警は22日、母親への殺人容疑で再逮捕した。杉平容疑者は娘の元交際相手で、府警は別れ話を巡って一方的に恨みを募らせたとみて調べている。　殺害されたのは、2人で暮らして</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/280000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/280000c</guid><pubDate>Sat, 23 May 2026 02:46:50 +0000</pubDate></item><item><title>「ウルトラ警察隊」が被災地パトロール怠り43人処分　福島県警
+　大阪府和泉市の団地で住人の母娘が殺害された事件で、娘に対する殺人容疑で逮捕された、無職の杉平輝幸容疑者（51）＝堺市堺区＝について、府警は22日、母親への殺人容疑で再逮捕した。杉平容疑者は娘の元交際相手で、府警は別れ話を巡って一方的に恨みを募らせたとみて調べている。　殺害されたのは、2人で暮らして</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/280000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/280000c</guid><pubDate>Sat, 23 May 2026 06:11:18 +0000</pubDate></item><item><title>「ウルトラ警察隊」が被災地パトロール怠り43人処分　福島県警
 
 2026/5/22 19:26 670文字
 
-　福島県警は22日、東日本大震災と東京電力福島第1原発事故の被災地支援として全国の警察が出向してきている「ウルトラ警察隊」の29～32歳の男性巡査部長3人を戒告の懲戒処分にしたと発表した。勤務で定められたパトロールを怠り、受給すべきではない勤務手当を受け取っていたという。同様の行為で、3人を含め同隊</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/285000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/285000c</guid><pubDate>Sat, 23 May 2026 02:46:50 +0000</pubDate></item><item><title>犠牲になった3人の先輩　仙台育英の後輩ら、飲酒運転撲滅へ決意
+　福島県警は22日、東日本大震災と東京電力福島第1原発事故の被災地支援として全国の警察が出向してきている「ウルトラ警察隊」の29～32歳の男性巡査部長3人を戒告の懲戒処分にしたと発表した。勤務で定められたパトロールを怠り、受給すべきではない勤務手当を受け取っていたという。同様の行為で、3人を含め同隊</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/285000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/285000c</guid><pubDate>Sat, 23 May 2026 06:11:18 +0000</pubDate></item><item><title>犠牲になった3人の先輩　仙台育英の後輩ら、飲酒運転撲滅へ決意
 
 2026/5/22 19:39 1378文字
 
-　宮城県多賀城市で飲酒運転の車が仙台育英高の生徒の列に突っ込み、3人が死亡、15人が重軽傷を負った事故は、22日で発生から21年となった。県や県警などは七ケ浜町で「飲酒運転根絶県民大会」を開催。参加した約550人が飲酒運転撲滅への誓いを新たにした。【岩田優希、山中宏之】　事故は、2005年5月22日</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/287000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/287000c</guid><pubDate>Sat, 23 May 2026 02:46:50 +0000</pubDate></item><item><title>「放置した」　死体や汚物の中で犬猫飼育か　愛護団体代表を逮捕
+　宮城県多賀城市で飲酒運転の車が仙台育英高の生徒の列に突っ込み、3人が死亡、15人が重軽傷を負った事故は、22日で発生から21年となった。県や県警などは七ケ浜町で「飲酒運転根絶県民大会」を開催。参加した約550人が飲酒運転撲滅への誓いを新たにした。【岩田優希、山中宏之】　事故は、2005年5月22日</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/287000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/287000c</guid><pubDate>Sat, 23 May 2026 06:11:18 +0000</pubDate></item><item><title>「放置した」　死体や汚物の中で犬猫飼育か　愛護団体代表を逮捕
 
 2026/5/22 19:57 750文字
 
-　家の中には、犬猫の死体や汚物が至るところに放置されていた。「足の踏み場もなかった」と捜査員は振り返る。　それが「本来あるべき人間との共生」をうたう動物愛護団体の活動拠点だったという。　「物言えぬ動物たちを救う」「行き場を失った犬たちを保護」　掲げた理念の裏側で、動物たちは劣悪な環境に置かれていたと</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/312000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/312000c</guid><pubDate>Sat, 23 May 2026 02:46:50 +0000</pubDate></item><item><title>勾留中の男性に暴行疑い　巡査長ら2人を書類送検　奈良県警
+　家の中には、犬猫の死体や汚物が至るところに放置されていた。「足の踏み場もなかった」と捜査員は振り返る。　それが「本来あるべき人間との共生」をうたう動物愛護団体の活動拠点だったという。　「物言えぬ動物たちを救う」「行き場を失った犬たちを保護」　掲げた理念の裏側で、動物たちは劣悪な環境に置かれていたと</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/312000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/312000c</guid><pubDate>Sat, 23 May 2026 06:11:18 +0000</pubDate></item><item><title>勾留中の男性に暴行疑い　巡査長ら2人を書類送検　奈良県警
 
 2026/5/22 20:02 481文字
 
-　勾留中の男性に暴行したとして、奈良県警は22日、20代男性巡査と30代男性巡査長を特別公務員暴行陵虐容疑で書類送検した。巡査は減給10分の1（3カ月）の懲戒処分を受け、自らの申し出で巡査長から降任した。巡査長は本部長訓戒とされた。　県警監察課によると、2人は2025年10月に警察署の留置施設内の運</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/313000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/313000c</guid><pubDate>Sat, 23 May 2026 02:46:50 +0000</pubDate></item><item><title>「乱暴」「当然」　辺野古事故巡る文科省認定、分かれた野党評価
+　勾留中の男性に暴行したとして、奈良県警は22日、20代男性巡査と30代男性巡査長を特別公務員暴行陵虐容疑で書類送検した。巡査は減給10分の1（3カ月）の懲戒処分を受け、自らの申し出で巡査長から降任した。巡査長は本部長訓戒とされた。　県警監察課によると、2人は2025年10月に警察署の留置施設内の運</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/313000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/313000c</guid><pubDate>Sat, 23 May 2026 06:11:18 +0000</pubDate></item><item><title>「乱暴」「当然」　辺野古事故巡る文科省認定、分かれた野党評価
 
 2026/5/22 20:47 969文字
 
-　沖縄県名護市辺野古沖で修学旅行中の同志社国際高校（京都府京田辺市）の生徒らが乗った小型船が転覆して女子生徒と船長が死亡した事故を巡り、文部科学省が、同校の教育内容が政治的中立を定めた教育基本法に違反すると認定したことについて、野党の評価は分かれた。　中道改革連合の小川淳也代表は22日の記者会見で「</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/320000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/320000c</guid><pubDate>Sat, 23 May 2026 02:46:50 +0000</pubDate></item><item><title>遺族「全容解明に向け大きな前進」　辺野古事故巡る文科省認定に
+　沖縄県名護市辺野古沖で修学旅行中の同志社国際高校（京都府京田辺市）の生徒らが乗った小型船が転覆して女子生徒と船長が死亡した事故を巡り、文部科学省が、同校の教育内容が政治的中立を定めた教育基本法に違反すると認定したことについて、野党の評価は分かれた。　中道改革連合の小川淳也代表は22日の記者会見で「</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/320000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/320000c</guid><pubDate>Sat, 23 May 2026 06:11:18 +0000</pubDate></item><item><title>遺族「全容解明に向け大きな前進」　辺野古事故巡る文科省認定に
 
 2026/5/22 20:49 1042文字
 
-　同志社国際高校（京都府）が修学旅行で実施した沖縄県名護市辺野古沖での基地移設工事に関する学習を巡り、22日に文部科学省が公表した調査結果は、学校側の安全管理体制の問題点に加え、政治的中立性を欠いたとの認定に踏み込んだ。学校法人は改めて謝罪し検証と見直しをしていく考えを示した。　事故では、同志社国際</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/322000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/322000c</guid><pubDate>Sat, 23 May 2026 02:46:50 +0000</pubDate></item><item><title>文科省、「政治活動の禁止違反」を初認定　辺野古転覆事故巡り
+　同志社国際高校（京都府）が修学旅行で実施した沖縄県名護市辺野古沖での基地移設工事に関する学習を巡り、22日に文部科学省が公表した調査結果は、学校側の安全管理体制の問題点に加え、政治的中立性を欠いたとの認定に踏み込んだ。学校法人は改めて謝罪し検証と見直しをしていく考えを示した。　事故では、同志社国際</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/322000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/322000c</guid><pubDate>Sat, 23 May 2026 06:11:18 +0000</pubDate></item><item><title>文科省、「政治活動の禁止違反」を初認定　辺野古転覆事故巡り
 
 2026/5/22 21:09 1063文字
 
-　沖縄県名護市辺野古沖で修学旅行中だった同志社国際高校（京都府京田辺市）の生徒らを乗せた小型船2隻が転覆して女子生徒と船長が死亡した事故を巡り、文部科学省は22日、学校側の安全管理体制や教育活動などへの調査結果と見解を公表した。米軍普天間飛行場（宜野湾市）の辺野古への移設工事を取り上げた学習に関し、</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/333000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/333000c</guid><pubDate>Sat, 23 May 2026 02:46:50 +0000</pubDate></item><item><title>1947年の法施行後初の措置　辺野古事故巡り踏み込んだ文科省
+　沖縄県名護市辺野古沖で修学旅行中だった同志社国際高校（京都府京田辺市）の生徒らを乗せた小型船2隻が転覆して女子生徒と船長が死亡した事故を巡り、文部科学省は22日、学校側の安全管理体制や教育活動などへの調査結果と見解を公表した。米軍普天間飛行場（宜野湾市）の辺野古への移設工事を取り上げた学習に関し、</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/333000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/333000c</guid><pubDate>Sat, 23 May 2026 06:11:18 +0000</pubDate></item><item><title>1947年の法施行後初の措置　辺野古事故巡り踏み込んだ文科省
 
 2026/5/22 21:28深掘り図解あり 1116文字
 
-　沖縄県名護市の辺野古沖で修学旅行中の同志社国際高校（京都府京田辺市）の生徒らが乗った船が転覆し2人が死亡した事故を巡り、文部科学省は22日、学校法人に是正を指導した。安全管理の不備に加え、「教育の憲法」とされ政治活動を禁じた教育基本法に違反すると認定した。1947年の法施行後初めての措置の背景には</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/340000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/340000c</guid><pubDate>Sat, 23 May 2026 02:46:50 +0000</pubDate></item><item><title>告白断った高校生に暴行か　男性3人を逮捕・書類送検　警視庁
+　沖縄県名護市の辺野古沖で修学旅行中の同志社国際高校（京都府京田辺市）の生徒らが乗った船が転覆し2人が死亡した事故を巡り、文部科学省は22日、学校法人に是正を指導した。安全管理の不備に加え、「教育の憲法」とされ政治活動を禁じた教育基本法に違反すると認定した。1947年の法施行後初めての措置の背景には</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/340000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/340000c</guid><pubDate>Sat, 23 May 2026 06:11:18 +0000</pubDate></item><item><title>告白断った高校生に暴行か　男性3人を逮捕・書類送検　警視庁
 
 2026/5/22 22:07 600文字
 
-　その日、高校生の男子生徒は友だちだった少女に告白された。　「私と付き合わない？」　10代の「ナンパスポット」として知られる東京・渋谷の宮下パークで出会ってから2カ月。その少女とは、度々会っていた。だが断った。　「ごめん。別のことに集中したい」　男子生徒を待っていたのは、少女の話を聞いた別の男性3人</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/332000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/332000c</guid><pubDate>Sat, 23 May 2026 02:46:50 +0000</pubDate></item><item><title>「政治的中立性」指摘の文科省見解　平和学習の現場が抱く懸念
+　その日、高校生の男子生徒は友だちだった少女に告白された。　「私と付き合わない？」　10代の「ナンパスポット」として知られる東京・渋谷の宮下パークで出会ってから2カ月。その少女とは、度々会っていた。だが断った。　「ごめん。別のことに集中したい」　男子生徒を待っていたのは、少女の話を聞いた別の男性3人</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/332000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/332000c</guid><pubDate>Sat, 23 May 2026 06:11:18 +0000</pubDate></item><item><title>「政治的中立性」指摘の文科省見解　平和学習の現場が抱く懸念
 
 2026/5/22 22:25 1517文字
 
-　同志社国際高校が修学旅行で実施した沖縄県名護市辺野古沖での基地移設工事に関する学習を巡り、文部科学省が政治的中立性を欠いた教育基本法違反だと認定したことに対し、沖縄や被爆地で長く平和学習に関わってきた関係者からは、学習活動そのものを萎縮させかねないとして懸念する声が相次いだ。「基地負担」関心薄れる</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/360000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/360000c</guid><pubDate>Sat, 23 May 2026 02:46:50 +0000</pubDate></item><item><title>時の政府によって変わる中立　辺野古巡る認定、萎縮する教育現場
+　同志社国際高校が修学旅行で実施した沖縄県名護市辺野古沖での基地移設工事に関する学習を巡り、文部科学省が政治的中立性を欠いた教育基本法違反だと認定したことに対し、沖縄や被爆地で長く平和学習に関わってきた関係者からは、学習活動そのものを萎縮させかねないとして懸念する声が相次いだ。「基地負担」関心薄れる</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/360000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/360000c</guid><pubDate>Sat, 23 May 2026 06:11:18 +0000</pubDate></item><item><title>時の政府によって変わる中立　辺野古巡る認定、萎縮する教育現場
 
 2026/5/23 06:00深掘り図解あり 1052文字
 
-　沖縄県名護市の辺野古沖で修学旅行中の同志社国際高校（京都府京田辺市）の生徒らが乗った船が転覆し2人が死亡した事故を巡り、文部科学省は22日、学校法人に是正を指導した。安全管理の不備に加え、「教育の憲法」とされ政治活動を禁じた教育基本法に違反すると認定した。教育現場には今後、どのような影響が考えられ</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/349000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/349000c</guid><pubDate>Sat, 23 May 2026 02:46:50 +0000</pubDate></item><item><title>辺野古巡る文科省認定、今後の教育現場への影響は　識者に聞いた
+　沖縄県名護市の辺野古沖で修学旅行中の同志社国際高校（京都府京田辺市）の生徒らが乗った船が転覆し2人が死亡した事故を巡り、文部科学省は22日、学校法人に是正を指導した。安全管理の不備に加え、「教育の憲法」とされ政治活動を禁じた教育基本法に違反すると認定した。教育現場には今後、どのような影響が考えられ</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/349000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/349000c</guid><pubDate>Sat, 23 May 2026 06:11:18 +0000</pubDate></item><item><title>辺野古巡る文科省認定、今後の教育現場への影響は　識者に聞いた
 
 2026/5/23 06:30深掘り 1170文字
 
-　沖縄県名護市の辺野古沖で修学旅行中の同志社国際高校（京都府京田辺市）の生徒らが乗った船が転覆し2人が死亡した事故を巡り、文部科学省は22日、学校法人に是正を指導した。安全管理の不備に加え、「教育の憲法」とされ政治活動を禁じた教育基本法に違反すると認定した。1947年の法施行後初めての措置の背景には</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/344000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/344000c</guid><pubDate>Sat, 23 May 2026 02:46:50 +0000</pubDate></item></channel></rss>
+　沖縄県名護市の辺野古沖で修学旅行中の同志社国際高校（京都府京田辺市）の生徒らが乗った船が転覆し2人が死亡した事故を巡り、文部科学省は22日、学校法人に是正を指導した。安全管理の不備に加え、「教育の憲法」とされ政治活動を禁じた教育基本法に違反すると認定した。1947年の法施行後初めての措置の背景には</title><link>https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/344000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260522/k00/00m/040/344000c</guid><pubDate>Sat, 23 May 2026 06:11:18 +0000</pubDate></item><item><title>栃木の強殺、警視庁を投入　警察庁が異例指示　本格捜査へ
+
+2026/5/23 14:20 695文字
+
+　栃木県上三川（かみのかわ）町の住宅で親子3人が死傷した強盗殺人事件で、警察庁の楠芳伸長官は匿名・流動型犯罪グループ（トクリュウ＝匿流）による広域的な事件に発展する可能性もあることから、警視庁などに捜査に加わるよう指示した。警視庁は関係する警察からの情報を集約し、事件の背後にいるとみられる中核的人物</title><link>https://mainichi.jp//mainichi.jp/articles/20260523/k00/00m/040/082000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260523/k00/00m/040/082000c</guid><pubDate>Sat, 23 May 2026 06:11:18 +0000</pubDate></item><item><title>車8台絡む事故　無免許でひき逃げか、容疑で高校生逮捕　横浜
+
+2026/5/23 15:07 315文字
+
+　横浜市旭区の県道で21日、車8台が絡む多重事故があり、旭署は23日、追突した乗用車を無免許で運転していたとして同区の男子高校生（17）を自動車運転処罰法違反（無免許過失運転致傷）と道交法違反（ひき逃げ）の疑いで逮捕した。容疑を認めているという。　逮捕容疑は21日午後0時19分ごろ、同市旭区矢指町の</title><link>https://mainichi.jp//mainichi.jp/articles/20260523/k00/00m/040/091000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260523/k00/00m/040/091000c</guid><pubDate>Sat, 23 May 2026 06:11:18 +0000</pubDate></item></channel></rss>
