@@ -1,155 +1,152 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Mainichi - Incident et Shakai (Complet)</title><link>https://mainichi.jp</link><description>Tous les articles de Incident et Shakai, sans doublons.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 26 May 2026 17:54:50 +0000</lastBuildDate><item><title>日銀の内田副総裁が退院　25年11月から白血病治療で入院
-
-2026/5/26 18:33 181文字
-
-　日銀は26日、白血病の治療のため入院していた内田真一副総裁が退院したと明らかにした。27日から出勤し、6月15、16日の金融政策決定会合は対面か別室から電話で参加する予定。　内田氏は2025年11月から治療のため入院しており、その間の金融政策決定会合は電話で参加していた。日銀広報課によると、今後は</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/020/243000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/020/243000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>鹿児島県に線状降水帯予測　27日未明から　気象庁注意呼びかけ
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Mainichi - Incident et Shakai (Complet)</title><link>https://mainichi.jp</link><description>Tous les articles de Incident et Shakai, sans doublons.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 26 May 2026 20:06:05 +0000</lastBuildDate><item><title>鹿児島県に線状降水帯予測　27日未明から　気象庁注意呼びかけ
 
 2026/5/26 18:40 271文字
 
-　気象庁は26日、奄美地方を除く鹿児島県で、27日未明から夕方にかけて線状降水帯が発生して大雨災害発生の危険度が急激に高まる可能性があると発表した。土砂災害への警戒や低い土地の浸水などに注意するよう呼びかけている。　気象庁によると、低気圧や前線に向かって暖かく湿った空気が流れ込む影響で、鹿児島県では</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/250000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/250000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>北九州市、「フィジカルAI」共生都市宣言　世界を支える技術を
+　気象庁は26日、奄美地方を除く鹿児島県で、27日未明から夕方にかけて線状降水帯が発生して大雨災害発生の危険度が急激に高まる可能性があると発表した。土砂災害への警戒や低い土地の浸水などに注意するよう呼びかけている。　気象庁によると、低気圧や前線に向かって暖かく湿った空気が流れ込む影響で、鹿児島県では</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/250000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/250000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>北九州市、「フィジカルAI」共生都市宣言　世界を支える技術を
 
 2026/5/26 18:53 856文字
 
-　人工知能（AI）でロボットを自律的に動かす「フィジカルAI」社会実装の先進地を目指し、北九州市は「フィジカルAI共生都市宣言」をした。高齢化や人手不足など課題先進地である市内で、工場や橋などを実証の場として企業・研究機関に提供する。　フィジカルAIは米中を中心に世界で開発競争が激化。高市早苗首相は</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/251000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/251000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>新しい「防災気象情報」、28日から　自治体の避難情報に対応
+　人工知能（AI）でロボットを自律的に動かす「フィジカルAI」社会実装の先進地を目指し、北九州市は「フィジカルAI共生都市宣言」をした。高齢化や人手不足など課題先進地である市内で、工場や橋などを実証の場として企業・研究機関に提供する。　フィジカルAIは米中を中心に世界で開発競争が激化。高市早苗首相は</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/251000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/251000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>新しい「防災気象情報」、28日から　自治体の避難情報に対応
 
 2026/5/26 18:54 947文字
 
-　大雨や高潮などの警報や注意報を再編した新しい「防災気象情報」の運用が28日から始まる。国は「河川氾濫」「大雨」「土砂災害」「高潮」の4種類の災害を対象に、リスクに応じた1～5のレベルと統一した名称を設ける。　これまでの防災気象情報は、災害ごとに異なる表現があり、危険度のレベルと名称がばらばらだった</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/235000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/235000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>広島の養殖カキ、大量死に「複合的要因」　県がアラート発出へ
+　大雨や高潮などの警報や注意報を再編した新しい「防災気象情報」の運用が28日から始まる。国は「河川氾濫」「大雨」「土砂災害」「高潮」の4種類の災害を対象に、リスクに応じた1～5のレベルと統一した名称を設ける。　これまでの防災気象情報は、災害ごとに異なる表現があり、危険度のレベルと名称がばらばらだった</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/235000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/235000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>広島の養殖カキ、大量死に「複合的要因」　県がアラート発出へ
 
 2026/5/26 19:02 603文字
 
-　瀬戸内海沿岸で2025年に養殖カキが大量死した問題で、広島県の「かきへい死に関する有識者会議」は26日、少雨など複合的な要因が原因と推定し、モニタリング強化やいかだの操作による対策案をとりまとめた。今後、リスクに応じたアラートを県が出すとし、座長を務める福井県立大の浜口昌巳教授は「二度と同じ状況で</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/248000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/248000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>ルワンダ内戦経験の女性「学びが助けてくれた」教育の必要性説く
+　瀬戸内海沿岸で2025年に養殖カキが大量死した問題で、広島県の「かきへい死に関する有識者会議」は26日、少雨など複合的な要因が原因と推定し、モニタリング強化やいかだの操作による対策案をとりまとめた。今後、リスクに応じたアラートを県が出すとし、座長を務める福井県立大の浜口昌巳教授は「二度と同じ状況で</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/248000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/248000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>ルワンダ内戦経験の女性「学びが助けてくれた」教育の必要性説く
 
 2026/5/26 19:04 843文字
 
-　1994年に大虐殺が起きたアフリカ・ルワンダ出身で、NPO法人「ルワンダの教育を考える会」（福島市）代表の永遠瑠（とわり）マリールイズさん（60）が、長崎市の市立山里中学校で講演した。内戦に巻き込まれた経験を語り、平和の尊さや教育の大切さを説いた。　外務省によると、ルワンダでは長く部族間の弾圧と迫</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/069000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/069000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>「国の対応に違法性ない」　安愚楽牧場の消費者被害、出資者敗訴
+　1994年に大虐殺が起きたアフリカ・ルワンダ出身で、NPO法人「ルワンダの教育を考える会」（福島市）代表の永遠瑠（とわり）マリールイズさん（60）が、長崎市の市立山里中学校で講演した。内戦に巻き込まれた経験を語り、平和の尊さや教育の大切さを説いた。　外務省によると、ルワンダでは長く部族間の弾圧と迫</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/069000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/069000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>「国の対応に違法性ない」　安愚楽牧場の消費者被害、出資者敗訴
 
 2026/5/26 19:11 555文字
 
-　2011年に経営破綻した「安愚楽（あぐら）牧場」（栃木県）の消費者被害が拡大したのは、国が規制権限を行使しなかったためだとして、出資者約1300人が国に総額約64億円の損害賠償を求めた訴訟の判決で、東京地裁は26日、請求を棄却した。小川嘉基裁判長は「国の対応が著しく合理性を欠くとまでは言えない」と</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/269000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/269000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>税収偏在巡り　小池氏ら「議論すべきはパイをいかに拡大するか」
+　2011年に経営破綻した「安愚楽（あぐら）牧場」（栃木県）の消費者被害が拡大したのは、国が規制権限を行使しなかったためだとして、出資者約1300人が国に総額約64億円の損害賠償を求めた訴訟の判決で、東京地裁は26日、請求を棄却した。小川嘉基裁判長は「国の対応が著しく合理性を欠くとまでは言えない」と</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/269000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/269000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>税収偏在巡り　小池氏ら「議論すべきはパイをいかに拡大するか」
 
 2026/5/26 19:35 394文字
 
-　関東地方知事会が26日、東京都千代田区で開かれ、税収の偏在是正について小池百合子知事は国が地方税財政の在り方を検証すべきだとの考えを改めて示した。　同会で千葉県の熊谷俊人知事は「看過できない水準の（行政サービスの）地域間格差が生じていることが課題で、改善するためにはその要因である地方税の偏在是正が</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/278000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/278000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>再審見直し、野党対案と異例の並行審議へ　政府案と隔たり大きく
+　関東地方知事会が26日、東京都千代田区で開かれ、税収の偏在是正について小池百合子知事は国が地方税財政の在り方を検証すべきだとの考えを改めて示した。　同会で千葉県の熊谷俊人知事は「看過できない水準の（行政サービスの）地域間格差が生じていることが課題で、改善するためにはその要因である地方税の偏在是正が</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/278000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/278000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>再審見直し、野党対案と異例の並行審議へ　政府案と隔たり大きく
 
 2026/5/26 19:40 795文字
 
-　再審制度を見直す刑事訴訟法改正案が26日、衆院本会議で審議入りした。高市早苗首相は再審無罪が近年続いたことから「誤判からの速やかな救済を図る。反省のもとに必要な改善を行っていく」と述べた。政府案と野党の対案が並行審議される異例の展開となるが、首相は「法的安定性という観点も必要」とし、冤罪（えんざい</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/280000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/280000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>寄り添っている「ふう」…AIへの相談の限界　識者が抱く危機感
+　再審制度を見直す刑事訴訟法改正案が26日、衆院本会議で審議入りした。高市早苗首相は再審無罪が近年続いたことから「誤判からの速やかな救済を図る。反省のもとに必要な改善を行っていく」と述べた。政府案と野党の対案が並行審議される異例の展開となるが、首相は「法的安定性という観点も必要」とし、冤罪（えんざい</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/280000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/280000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>寄り添っている「ふう」…AIへの相談の限界　識者が抱く危機感
 
 2026/5/26 19:41 880文字
 
-　プロ野球・巨人の阿部慎之助監督（47）が長女（18）への暴行容疑で逮捕、釈放された後、辞任した事件は、長女が生成人工知能（AI）「チャットGPT」に相談した結果、児童相談所に通報していたことが警察が事態を把握するきっかけだった。内閣府の消費者委員会の調査によると、生成AIを相談相手に選ぶ若者が多く</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/279000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/279000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>千葉・市川市、モスクの公園使用を認める　「礼拝しない」前提に
+　プロ野球・巨人の阿部慎之助監督（47）が長女（18）への暴行容疑で逮捕、釈放された後、辞任した事件は、長女が生成人工知能（AI）「チャットGPT」に相談した結果、児童相談所に通報していたことが警察が事態を把握するきっかけだった。内閣府の消費者委員会の調査によると、生成AIを相談相手に選ぶ若者が多く</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/279000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/279000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>千葉・市川市、モスクの公園使用を認める　「礼拝しない」前提に
 
 2026/5/26 20:01独自 780文字
 
-　千葉県市川市のモスク（イスラム教の礼拝堂）が市立公園の使用申請を取り下げるよう市から求められた問題で、市が26日、公園内で礼拝しないことを前提に使用を許可したことがわかった。モスクが市の要請を受けて公園での礼拝を自粛する。ただし、モスクは臨時的な措置としており、今後も礼拝での利用を認めるよう求める</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/291000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/291000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>千葉百音選手、母校・東北高をサプライズ訪問　後輩たちにエール
+　千葉県市川市のモスク（イスラム教の礼拝堂）が市立公園の使用申請を取り下げるよう市から求められた問題で、市が26日、公園内で礼拝しないことを前提に使用を許可したことがわかった。モスクが市の要請を受けて公園での礼拝を自粛する。ただし、モスクは臨時的な措置としており、今後も礼拝での利用を認めるよう求める</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/291000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/291000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>千葉百音選手、母校・東北高をサプライズ訪問　後輩たちにエール
 
 2026/5/26 20:31 463文字
 
-　おかえり百音（もね）先輩――。ミラノ・コルティナ冬季オリンピックのフィギュアスケート女子シングルで4位に入賞した千葉百音選手（21）が25日、母校の東北高（仙台市泉区）をサプライズで訪問し、報告会を開いた。生徒ら約680人に「メダルに一歩届かず悔しかったが、自分の力をしっかり出し切ることができたの</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/296000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/296000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>巨人、史上初「生え抜きではない」指揮官　橋上コーチが監督代行
+　おかえり百音（もね）先輩――。ミラノ・コルティナ冬季オリンピックのフィギュアスケート女子シングルで4位に入賞した千葉百音選手（21）が25日、母校の東北高（仙台市泉区）をサプライズで訪問し、報告会を開いた。生徒ら約680人に「メダルに一歩届かず悔しかったが、自分の力をしっかり出し切ることができたの</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/296000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/296000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>巨人、史上初「生え抜きではない」指揮官　橋上コーチが監督代行
 
 2026/5/26 21:12 810文字
 
-　辞任した阿部慎之助前監督（47）に代わって、橋上秀樹オフェンスチーフコーチ（60）が監督代行として指揮を執ることになったプロ野球・巨人は26日、同日開幕のセ・パ交流戦、ソフトバンク戦に向け、東京ドームで練習した。　巨人は、代行を含む監督は全て生え抜きの選手が務めてきた（初代の藤本定義監督らアマチュ</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/050/302000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/050/302000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>電気・ガス代補助　7～9月、標準世帯で5000円程度　エネルギー庁
+　辞任した阿部慎之助前監督（47）に代わって、橋上秀樹オフェンスチーフコーチ（60）が監督代行として指揮を執ることになったプロ野球・巨人は26日、同日開幕のセ・パ交流戦、ソフトバンク戦に向け、東京ドームで練習した。　巨人は、代行を含む監督は全て生え抜きの選手が務めてきた（初代の藤本定義監督らアマチュ</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/050/302000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/050/302000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>電気・ガス代補助　7～9月、標準世帯で5000円程度　エネルギー庁
 
 2026/5/26 22:46 672文字
 
-　資源エネルギー庁は26日、今夏の電気・ガス料金の支援の概要を発表した。電気代の補助額は1キロワット時当たりでみると、一般家庭向けなど低圧の場合、7月と9月の使用分が3・5円、8月が4・5円。ガス代の補助額は、1立方メートル当たりで7月と9月が14円、8月は18円。2026年度の一般会計の予備費から</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/020/338000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/020/338000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>膝つきNG、座るのもNG　「手つかずの秘境」に観光客12万人
-
-5/26 14:00 2256文字
-
-　過酷な自然環境が長年、人を遠ざけてきた白い大陸、南極。地球温暖化でその様相は変わり、クルーズ船などによる観光客の増加は環境悪化のリスクを高めている。国境のない「平和の象徴」とされる秘境の地を、人類は守り抜くことができるのだろうか。　◇「そこにいるだけで」　東京都内で7日、南極の観光や平和利用につい</title><link>https://mainichi.jp//mainichi.jp/articles/20260525/k00/00m/040/320000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260525/k00/00m/040/320000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>「国境なき大陸」で汚染事故、そのとき責任は?　国際協調道半ば
+　資源エネルギー庁は26日、今夏の電気・ガス料金の支援の概要を発表した。電気代の補助額は1キロワット時当たりでみると、一般家庭向けなど低圧の場合、7月と9月の使用分が3・5円、8月が4・5円。ガス代の補助額は、1立方メートル当たりで7月と9月が14円、8月は18円。2026年度の一般会計の予備費から</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/020/338000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/020/338000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>「国境なき大陸」で汚染事故、そのとき責任は?　国際協調道半ば
 
 5/26 14:01 2349文字
 
-　「地球最後の秘境」とも呼ばれ、手つかずの自然が残る南極。だが、地球温暖化や観光客の増加などで貴重な環境が脅かされようとしている。対策を強化すべく、広島市で21日まで南極条約協議国会議が開かれたが、国際協調の歩みは道半ばだ。　◇改正法案を閣議決定　「船舶事故などで美しい自然や貴重な生態系が損なわれる</title><link>https://mainichi.jp//mainichi.jp/articles/20260525/k00/00m/040/309000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260525/k00/00m/040/309000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>吉村氏の賭けは吉か凶か　都構想3度目投票　統一選と同日公算大
+　「地球最後の秘境」とも呼ばれ、手つかずの自然が残る南極。だが、地球温暖化や観光客の増加などで貴重な環境が脅かされようとしている。対策を強化すべく、広島市で21日まで南極条約協議国会議が開かれたが、国際協調の歩みは道半ばだ。　◇改正法案を閣議決定　「船舶事故などで美しい自然や貴重な生態系が損なわれる</title><link>https://mainichi.jp//mainichi.jp/articles/20260525/k00/00m/040/309000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260525/k00/00m/040/309000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>吉村氏の賭けは吉か凶か　都構想3度目投票　統一選と同日公算大
 
 5/26 16:00深掘り 2933文字
 
-　大阪市を廃止して特別区に再編する「大阪都構想」について、3度目の住民投票に向けた具体的な議論が6月にも動き出す。　制度案を取りまとめる会議体「法定協議会（法定協）」を巡り、地域政党・大阪維新の会が過半数を占める大阪府市両議会で設置議案の可決が見込まれるためだ。　維新の看板政策である都構想は、来春の</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/038000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/038000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>裁判Plus 司法のリアル
+　大阪市を廃止して特別区に再編する「大阪都構想」について、3度目の住民投票に向けた具体的な議論が6月にも動き出す。　制度案を取りまとめる会議体「法定協議会（法定協）」を巡り、地域政党・大阪維新の会が過半数を占める大阪府市両議会で設置議案の可決が見込まれるためだ。　維新の看板政策である都構想は、来春の</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/038000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/038000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>裁判Plus 司法のリアル
 再審見直し、高市首相が残した「キーワード」　国会論戦の焦点
 
 5/26 21:49深掘り図解あり 2591文字
 
-　再審制度を見直す刑事訴訟法改正案は26日、衆院で審議入りした。　自民党の事前審査は検察官の不服申し立て（抗告）に議論が集中したが、質疑では証拠開示のあり方などに「戦線」が拡大。　審理の迅速化だけでなく、冤罪（えんざい）救済の実効性確保につながる改正となるのかが焦点となる。　◇高市首相が触れたキーワ</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/323000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/323000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>巨人・阿部慎之助監督を釈放　娘への暴行容疑で逮捕後
+　再審制度を見直す刑事訴訟法改正案は26日、衆院で審議入りした。　自民党の事前審査は検察官の不服申し立て（抗告）に議論が集中したが、質疑では証拠開示のあり方などに「戦線」が拡大。　審理の迅速化だけでなく、冤罪（えんざい）救済の実効性確保につながる改正となるのかが焦点となる。　◇高市首相が触れたキーワ</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/323000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/323000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>激動期の安保
+「現実と理想は二者択一にあらず」　岸田氏が考える核なき世界
+
+5/27 05:00インタビュー 3100文字
+
+　「核なき世界」の実現をライフワークに掲げてきた被爆地・広島選出の岸田文雄元首相。国際政治の冷徹な現実や力学を知る指導者の目に、米国の「核の傘」に頼りながら核廃絶を希求するジレンマはどう映っていたのか。「現実と理想は二者択一ではない」と語る岸田氏に、核廃絶への道筋と政治の役割を問う。【聞き手・八田浩</title><link>https://mainichi.jp//mainichi.jp/articles/20260525/k00/00m/010/367000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260525/k00/00m/010/367000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>巨人・阿部慎之助監督を釈放　娘への暴行容疑で逮捕後
 
 2026/5/26 00:28 608文字
 
-　自宅で娘（18）に暴力を振るったとして警視庁渋谷署は25日夜、プロ野球・巨人の阿部慎之助監督（47）を暴行容疑で現行犯逮捕した。容疑を認めており、26日午前0時過ぎに釈放された。「娘のけんかを止めようとしたら言い返されたので、かっとなった」と供述したという。シーズン中に現職の監督が逮捕によって一時</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/001000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/001000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>京王線で人身事故　飛田給－府中間の上下線で運転見合わせ
+　自宅で娘（18）に暴力を振るったとして警視庁渋谷署は25日夜、プロ野球・巨人の阿部慎之助監督（47）を暴行容疑で現行犯逮捕した。容疑を認めており、26日午前0時過ぎに釈放された。「娘のけんかを止めようとしたら言い返されたので、かっとなった」と供述したという。シーズン中に現職の監督が逮捕によって一時</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/001000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/001000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>京王線で人身事故　飛田給－府中間の上下線で運転見合わせ
 
 2026/5/26 09:00 109文字
 
-　26日午前8時ごろ、東京都府中市の京王線武蔵野台駅で人身事故が起きた。京王電鉄によると、この影響で京王線は飛田給―府中間の上下線で運転を見合わせ、振り替え輸送を実施している。　運転再開は午前9時半ごろを見込んでいる。</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/030000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/030000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>暴行容疑の巨人・阿部監督　娘がチャットGPTに相談し児相通報
+　26日午前8時ごろ、東京都府中市の京王線武蔵野台駅で人身事故が起きた。京王電鉄によると、この影響で京王線は飛田給―府中間の上下線で運転を見合わせ、振り替え輸送を実施している。　運転再開は午前9時半ごろを見込んでいる。</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/030000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/030000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>暴行容疑の巨人・阿部監督　娘がチャットGPTに相談し児相通報
 
 2026/5/26 09:54独自 524文字
 
-　長女（18）に暴力を振るったとしてプロ野球・巨人の阿部慎之助監督（47）が暴行容疑で逮捕された後に釈放された事件で、長女が生成人工知能（AI）「チャットGPT」からの回答に沿って、児童相談所に通報していたことが、捜査関係者への取材で判明した。過去に長女を巡る相談案件はなく、本人による児相への通報が</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/044000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/044000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>殺人容疑で息子を逮捕　沖縄・石垣の集合住宅で72歳死亡
+　長女（18）に暴力を振るったとしてプロ野球・巨人の阿部慎之助監督（47）が暴行容疑で逮捕された後に釈放された事件で、長女が生成人工知能（AI）「チャットGPT」からの回答に沿って、児童相談所に通報していたことが、捜査関係者への取材で判明した。過去に長女を巡る相談案件はなく、本人による児相への通報が</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/044000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/044000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>殺人容疑で息子を逮捕　沖縄・石垣の集合住宅で72歳死亡
 
 2026/5/26 10:16 296文字
 
-　沖縄県石垣市新川の集合住宅で25日、胸から出血した住人の男性（72）が見つかった後、死亡が確認され、県警は26日未明、殺人容疑で市内に住む30代の無職の息子を緊急逮捕した。25日夜、八重山署に出頭していた。男性の胸部に複数の刺し傷があり、県警は詳しい状況や動機などを調べる。　逮捕容疑は23日正午ご</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/050000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/050000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>巨人・阿部監督「カッとなった」　娘への暴行容疑で逮捕→釈放
+　沖縄県石垣市新川の集合住宅で25日、胸から出血した住人の男性（72）が見つかった後、死亡が確認され、県警は26日未明、殺人容疑で市内に住む30代の無職の息子を緊急逮捕した。25日夜、八重山署に出頭していた。男性の胸部に複数の刺し傷があり、県警は詳しい状況や動機などを調べる。　逮捕容疑は23日正午ご</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/050000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/050000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>巨人・阿部監督「カッとなった」　娘への暴行容疑で逮捕→釈放
 
 2026/5/26 11:02 1046文字
 
-　自宅で長女（18）に暴力を振るったとして警視庁渋谷署は25日夜、プロ野球・巨人の阿部慎之助監督（47）＝東京都渋谷区＝を暴行容疑で現行犯逮捕した。容疑を認めており、26日午前0時過ぎに釈放された。「娘のけんかを止めようとしたら言い返されたので、カッとなった」と供述している。当時、酒を飲んでいたとい</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/076000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/076000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>巨人、阿部慎之助監督の辞任発表　娘への暴行容疑で逮捕後に釈放
+　自宅で長女（18）に暴力を振るったとして警視庁渋谷署は25日夜、プロ野球・巨人の阿部慎之助監督（47）＝東京都渋谷区＝を暴行容疑で現行犯逮捕した。容疑を認めており、26日午前0時過ぎに釈放された。「娘のけんかを止めようとしたら言い返されたので、カッとなった」と供述している。当時、酒を飲んでいたとい</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/076000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/076000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>巨人、阿部慎之助監督の辞任発表　娘への暴行容疑で逮捕後に釈放
 
 2026/5/26 11:47動画あり 340文字
 
-　プロ野球・巨人は26日、娘への暴行容疑で現行犯逮捕され、釈放された阿部慎之助監督（47）が辞任したと発表した。　警視庁渋谷署や捜査関係者によると、25日夜、東京都渋谷区の自宅で娘をつかんで押し倒した疑いで現行犯逮捕された。容疑を認め、26日午前0時過ぎに釈放された。「娘のけんかを止めようとしたら言</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/064000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/064000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>巨人・阿部監督「家族のトラブルで多大な迷惑」と謝罪　辞任受け
+　プロ野球・巨人は26日、娘への暴行容疑で現行犯逮捕され、釈放された阿部慎之助監督（47）が辞任したと発表した。　警視庁渋谷署や捜査関係者によると、25日夜、東京都渋谷区の自宅で娘をつかんで押し倒した疑いで現行犯逮捕された。容疑を認め、26日午前0時過ぎに釈放された。「娘のけんかを止めようとしたら言</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/064000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/064000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>巨人・阿部監督「家族のトラブルで多大な迷惑」と謝罪　辞任受け
 
 2026/5/26 12:25動画あり 465文字
 
-　プロ野球・巨人は26日、娘への暴行容疑で現行犯逮捕され、釈放された阿部慎之助監督（47）が辞任したと発表した。同日、山口寿一オーナーに辞任を申し入れ、受理された。　阿部監督は東京都内で取材に応じ、「私の家族のトラブルで多大なご迷惑とご心配をおかけしました。伝統ある巨人軍の監督の名も汚してしまって、</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/114000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/114000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>辞任の巨人・阿部監督は生え抜きスター　シーズン中に異例の逮捕
+　プロ野球・巨人は26日、娘への暴行容疑で現行犯逮捕され、釈放された阿部慎之助監督（47）が辞任したと発表した。同日、山口寿一オーナーに辞任を申し入れ、受理された。　阿部監督は東京都内で取材に応じ、「私の家族のトラブルで多大なご迷惑とご心配をおかけしました。伝統ある巨人軍の監督の名も汚してしまって、</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/114000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/114000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>辞任の巨人・阿部監督は生え抜きスター　シーズン中に異例の逮捕
 
 2026/5/26 12:44 652文字
 
-　プロ野球の巨人・阿部慎之助監督（47）が25日夜に娘への暴行容疑で現行犯逮捕され、26日に釈放されて監督を辞任した。警視庁渋谷署や捜査関係者によると、阿部監督は「娘のけんかを止めようとしたら言い返されたので、かっとなった」と供述したという。　阿部監督は「球界の盟主」「紳士の球団」とされる巨人におい</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/119000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/119000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>「セメントかぶった」と119番　工事現場で2人心肺停止　滋賀
+　プロ野球の巨人・阿部慎之助監督（47）が25日夜に娘への暴行容疑で現行犯逮捕され、26日に釈放されて監督を辞任した。警視庁渋谷署や捜査関係者によると、阿部監督は「娘のけんかを止めようとしたら言い返されたので、かっとなった」と供述したという。　阿部監督は「球界の盟主」「紳士の球団」とされる巨人におい</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/119000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/119000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>「セメントかぶった」と119番　工事現場で2人心肺停止　滋賀
 
 2026/5/26 14:11 156文字
 
-　26日午前10時半ごろ、滋賀県草津市の工事現場で「（作業員が）セメントをかぶって息をしていない」と119番があった。男性作業員2人が深さ12メートルの現場から救助され、病院に搬送されたが心肺停止だという。　県警草津署によると、現場はJR草津駅から南西へ約1キロの、JR東海道線と高架道路が交差する場</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/120000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/120000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>「父が連行され泣き崩れた」　巨人・阿部前監督の長女がコメント
+　26日午前10時半ごろ、滋賀県草津市の工事現場で「（作業員が）セメントをかぶって息をしていない」と119番があった。男性作業員2人が深さ12メートルの現場から救助され、病院に搬送されたが心肺停止だという。　県警草津署によると、現場はJR草津駅から南西へ約1キロの、JR東海道線と高架道路が交差する場</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/120000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/120000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>「父が連行され泣き崩れた」　巨人・阿部前監督の長女がコメント
 
 2026/5/26 14:17 1154文字
 
-　長女への暴行容疑で現行犯逮捕され、釈放された巨人の阿部慎之助前監督（47）が26日、辞任した。暴行を受けた長女のコメントを阿部前監督の代理人が読み上げた。内容は次の通り。　◇「すでに仲直りしている」　報道関係者の皆様へ。　今回の件につきましては、家庭内のことにかかわらず、大々的な報道になってしまっ</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/137000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/137000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>10代女性の半数、AI利用目的は「悩み相談」　阿部前監督の娘も
+　長女への暴行容疑で現行犯逮捕され、釈放された巨人の阿部慎之助前監督（47）が26日、辞任した。暴行を受けた長女のコメントを阿部前監督の代理人が読み上げた。内容は次の通り。　◇「すでに仲直りしている」　報道関係者の皆様へ。　今回の件につきましては、家庭内のことにかかわらず、大々的な報道になってしまっ</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/137000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/137000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>10代女性の半数、AI利用目的は「悩み相談」　阿部前監督の娘も
 
 2026/5/26 15:30 566文字
 
-　プロ野球・巨人の阿部慎之助前監督（47）が長女（18）への暴行容疑で逮捕、釈放された後、辞任した事件を巡っては、暴行を受けた長女が生成人工知能（AI）「チャットGPT」に相談した結果、児童相談所に通報していたと、捜査関係者が明らかにした。背景には生成AIを相談相手に選ぶ若者が急増している実態がある</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/142000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/142000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>歌舞伎町で中2少女に4万円渡し、わいせつ疑い　47歳会社員を逮捕
+　プロ野球・巨人の阿部慎之助前監督（47）が長女（18）への暴行容疑で逮捕、釈放された後、辞任した事件を巡っては、暴行を受けた長女が生成人工知能（AI）「チャットGPT」に相談した結果、児童相談所に通報していたと、捜査関係者が明らかにした。背景には生成AIを相談相手に選ぶ若者が急増している実態がある</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/142000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/142000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>歌舞伎町で中2少女に4万円渡し、わいせつ疑い　47歳会社員を逮捕
 
 2026/5/26 15:42 347文字
 
-　歌舞伎町（東京都新宿区）で声を掛けた中学2年生の少女に現金を渡してわいせつ行為をしたとして、警視庁杉並署は25日、杉並区西荻南1の会社員、白木慎太郎容疑者（47）を不同意性交等と児童買春・児童ポルノ禁止法違反容疑で逮捕した。「ホテルで2時間話しただけで何もしていない」と供述しているという。　杉並署</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/154000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/154000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>「内臓売ってこい」ホストクラブ借金口実に誘拐か　若者どこへ?
+　歌舞伎町（東京都新宿区）で声を掛けた中学2年生の少女に現金を渡してわいせつ行為をしたとして、警視庁杉並署は25日、杉並区西荻南1の会社員、白木慎太郎容疑者（47）を不同意性交等と児童買春・児童ポルノ禁止法違反容疑で逮捕した。「ホテルで2時間話しただけで何もしていない」と供述しているという。　杉並署</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/154000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/154000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>「内臓売ってこい」ホストクラブ借金口実に誘拐か　若者どこへ?
 
 2026/5/26 17:25 824文字
 
-　ホストクラブへの借金を理由に、東南アジアへの渡航を促す。「内臓を売ってこい」。若い女性にそう迫ったとして、暴力団組員が捕まった。　東京・歌舞伎町。この街で声を掛けられ、海外に渡ったまま帰国しない若者たちが何人もいるという。　こうした勧誘は大抵が「闇バイト」の入り口だ。渡航後は、犯罪グループによる詐</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/200000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/200000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>「緑の募金」など124万円横領か　町職員を懲戒処分　福岡・篠栗
+　ホストクラブへの借金を理由に、東南アジアへの渡航を促す。「内臓を売ってこい」。若い女性にそう迫ったとして、暴力団組員が捕まった。　東京・歌舞伎町。この街で声を掛けられ、海外に渡ったまま帰国しない若者たちが何人もいるという。　こうした勧誘は大抵が「闇バイト」の入り口だ。渡航後は、犯罪グループによる詐</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/200000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/200000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>「緑の募金」など124万円横領か　町職員を懲戒処分　福岡・篠栗
 
 2026/5/26 18:05 410文字
 
-　福岡県篠栗町は26日、業務で管理していた124万4400円を横領したとして、産業観光課（当時）の20代の男性主事を同日付で懲戒免職処分にしたと発表した。全額弁済しており、刑事告訴はしないという。　町によると、男性は2025年11月～26年3月、緑化推進で町内の全21区から集めた「緑の募金活動」の一</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/223000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/223000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>「こういう形で去るとは…」　阿部前監督、チームへの思い問われ
+　福岡県篠栗町は26日、業務で管理していた124万4400円を横領したとして、産業観光課（当時）の20代の男性主事を同日付で懲戒免職処分にしたと発表した。全額弁済しており、刑事告訴はしないという。　町によると、男性は2025年11月～26年3月、緑化推進で町内の全21区から集めた「緑の募金活動」の一</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/223000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/223000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>「こういう形で去るとは…」　阿部前監督、チームへの思い問われ
 
 2026/5/26 18:28 957文字
 
-　プロ野球・巨人の阿部慎之助監督（47）は26日、自宅で長女に暴力を振るったとして、暴行容疑で現行犯逮捕されたことを受け、監督を辞任した。同日、巨人の山口寿一オーナーに辞任を申し出て受理された。　◇チームへの思いは　現役監督がシーズン中に逮捕され、辞任するという極めて異例の事態。26日未明に釈放され</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/233000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/233000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>静岡・横浜ゴム15人刺傷事件　38歳容疑者を殺人未遂罪で起訴
+　プロ野球・巨人の阿部慎之助監督（47）は26日、自宅で長女に暴力を振るったとして、暴行容疑で現行犯逮捕されたことを受け、監督を辞任した。同日、巨人の山口寿一オーナーに辞任を申し出て受理された。　◇チームへの思いは　現役監督がシーズン中に逮捕され、辞任するという極めて異例の事態。26日未明に釈放され</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/233000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/233000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>静岡・横浜ゴム15人刺傷事件　38歳容疑者を殺人未遂罪で起訴
 
 2026/5/26 18:56 323文字
 
-　静岡県三島市の横浜ゴム三島工場で2025年12月、従業員15人が刺されるなどした事件で、静岡地検沼津支部は26日、うち3人を殺害しようとしたとして三島市の無職、小山（おやま）雅貴容疑者（38）を殺人未遂罪で起訴した。19日まで鑑定留置して当時の精神状態などを調べており、刑事責任を問えると判断したと</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/263000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/263000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>栃木強殺、不審車両の男性を再逮捕へ　侵入のための道具所持疑い
+　静岡県三島市の横浜ゴム三島工場で2025年12月、従業員15人が刺されるなどした事件で、静岡地検沼津支部は26日、うち3人を殺害しようとしたとして三島市の無職、小山（おやま）雅貴容疑者（38）を殺人未遂罪で起訴した。19日まで鑑定留置して当時の精神状態などを調べており、刑事責任を問えると判断したと</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/263000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/263000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>栃木強殺、不審車両の男性を再逮捕へ　侵入のための道具所持疑い
 
 2026/5/26 19:02 298文字
 
-　栃木県上三川町の強盗殺人事件の発生1週間前、被害女性宅近くで不審車両に乗っていて盗品等保管容疑で逮捕された茨城県八千代町の男性（41）に関し、家屋に侵入するための道具を所持したとして、下野署捜査本部はピッキング防止法違反（特殊開錠用具所持）の疑いで、勾留期限の27日に再逮捕する方針を固めた。捜査関</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/266000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/266000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>「常に紳士たれ」の盟主に激震…急がれる野球界の綱紀粛正
+　栃木県上三川町の強盗殺人事件の発生1週間前、被害女性宅近くで不審車両に乗っていて盗品等保管容疑で逮捕された茨城県八千代町の男性（41）に関し、家屋に侵入するための道具を所持したとして、下野署捜査本部はピッキング防止法違反（特殊開錠用具所持）の疑いで、勾留期限の27日に再逮捕する方針を固めた。捜査関</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/266000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/266000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>「常に紳士たれ」の盟主に激震…急がれる野球界の綱紀粛正
 
 2026/5/26 20:42 664文字
 
-　交流戦を迎えた球界に激震が走った。長女への暴行容疑で逮捕されたプロ野球・巨人の阿部慎之助前監督（47）が辞任した。現役監督がシーズン中に逮捕され、辞めるという前代未聞の事態。球界では近年、不祥事が相次いでおり、綱紀粛正が求められる。　阿部前監督は26日朝、巨人の山口寿一オーナーに辞任を申し出た。そ</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/050/300000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/050/300000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>生成AIに悩み相談の若者急増　阿部前監督長女も相談し児相通報
+　交流戦を迎えた球界に激震が走った。長女への暴行容疑で逮捕されたプロ野球・巨人の阿部慎之助前監督（47）が辞任した。現役監督がシーズン中に逮捕され、辞めるという前代未聞の事態。球界では近年、不祥事が相次いでおり、綱紀粛正が求められる。　阿部前監督は26日朝、巨人の山口寿一オーナーに辞任を申し出た。そ</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/050/300000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/050/300000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>生成AIに悩み相談の若者急増　阿部前監督長女も相談し児相通報
 
 2026/5/26 21:15 1064文字
 
-　プロ野球・巨人の阿部慎之助前監督（47）が長女（18）への暴行容疑で逮捕・釈放された事件は、長女による被害相談がきっかけだった。長女は暴行を受けた後、生成人工知能（AI）「チャットGPT」からの回答に沿って、児童相談所に通報。これを受けて児相が110番しており、本人による通報が警察の対応につながっ</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/297000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/297000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item><item><title>「正力さん泣いている」　巨人OB広岡さん、指導者育成の場訴え
+　プロ野球・巨人の阿部慎之助前監督（47）が長女（18）への暴行容疑で逮捕・釈放された事件は、長女による被害相談がきっかけだった。長女は暴行を受けた後、生成人工知能（AI）「チャットGPT」からの回答に沿って、児童相談所に通報。これを受けて児相が110番しており、本人による通報が警察の対応につながっ</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/297000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/297000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item><item><title>「正力さん泣いている」　巨人OB広岡さん、指導者育成の場訴え
 
 2026/5/26 22:57 430文字
 
-　プロ野球・巨人の阿部慎之助前監督（47）が長女への暴行容疑で逮捕され、辞任した事件で、元ヤクルト、西武監督で巨人OBでもある広岡達朗さん（94）は嘆きの声を上げた。「人を導くということは現役時代とは違う。指導者に、巨人の監督となるための勉強の場が必要だ」と提言した。　広岡さんは徹底した食事管理など</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/340000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/340000c</guid><pubDate>Tue, 26 May 2026 17:54:50 +0000</pubDate></item></channel></rss>
+　プロ野球・巨人の阿部慎之助前監督（47）が長女への暴行容疑で逮捕され、辞任した事件で、元ヤクルト、西武監督で巨人OBでもある広岡達朗さん（94）は嘆きの声を上げた。「人を導くということは現役時代とは違う。指導者に、巨人の監督となるための勉強の場が必要だ」と提言した。　広岡さんは徹底した食事管理など</title><link>https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/340000c</link><guid isPermaLink="true">https://mainichi.jp//mainichi.jp/articles/20260526/k00/00m/040/340000c</guid><pubDate>Tue, 26 May 2026 20:06:05 +0000</pubDate></item></channel></rss>
